@@ -3,6 +3,8 @@
 A repository for code developed for WRI's Brazil horizontal and vertical urban growth paper.
 
 ![Data showcase](https://github.com/guilhermeiablo/brazilurbangrowth/blob/main/Figura%203.png?raw=true)
+![Data showcase](https://github.com/guilhermeiablo/brazilurbangrowth/blob/main/Figura%204.png?raw=true)
+
 
 
 # Getting started with the code
