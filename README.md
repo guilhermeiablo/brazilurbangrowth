@@ -2,6 +2,9 @@
 ## 30 Years of Horizontal and Vertical Growth in Brazilian Cities
 A repository for code developed for WRI's Brazil horizontal and vertical urban growth paper.
 
+![Data showcase](https://github.com/guilhermeiablo/brazilurbangrowth/blob/main/Figura%203.png?raw=true)
+
+
 # Getting started with the code
 In this repository you'll find three Jupyter Notebooks. They are meant to be used consecutively.
 
