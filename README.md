@@ -18,7 +18,7 @@ In this repository you'll find three Jupyter Notebooks. They are meant to be use
 `conda create -n urban_growth python=3.11 earthengine-api geehydro pandas geopandas scikit-learn rasterio rasterstats glob pprint seaborn contextily palettable`
 
 ## Getting started
-1. `conda activate urban_extent`
+1. `conda activate urban_growth`
 2. `jupyter notebook`
 3. Run each Jupyter Notebook separately and make sure to point to the folders in which you save the data as you move forward.
 
