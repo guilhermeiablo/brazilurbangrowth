@@ -1,6 +1,7 @@
 # brazilurbangrowth
 ## 30 Years of Horizontal and Vertical Growth in Brazilian Cities
 A repository for code developed for WRI's Brazil horizontal and vertical urban growth paper.
+https://www.wribrasil.org.br/publicacoes/trinta-anos-expansao-vertical-horizontal-cidades-brasileiras
 
 In this repo you'll find the code necessary to extract, process and visualize data pertaining to the urban form - horizontal an vertical - and populational expansion in Brazil's main urban concentrations, as defined by IBGE. You'll also find the resulting datasets at vector grid (~9km), urban concentration and national scales.
 
