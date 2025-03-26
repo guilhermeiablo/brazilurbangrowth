@@ -50,3 +50,7 @@ Note that this resource can be spatialized by joining with the IBGE Urban Concen
 - **pixel_count**: The number of pixels within the urban concentration.
 - **cluster[number]**: The number of pixels from that cluster in the urban concentration.
 - **classe_expansao**: The class, or cluster, to which the urban concentration belongs.
+
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+https://creativecommons.org/licenses/by-sa/4.0/
